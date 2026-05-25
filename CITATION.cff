@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Если вы используете материалы этого репозитория, цитируйте Landau Fund и исходный GitHub-репозиторий."
+title: "Landau Fund: REVIEW SYSTEM"
+type: dataset
+authors:
+  - name: "Landau Fund"
+year: 2026
+date-released: "2026-05-25"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/landau-fund/REVIEW_SYSTEM"
+url: "https://github.com/landau-fund/REVIEW_SYSTEM"
+abstract: "Система peer review, expert review, open review, AI review и аналитических заключений для партнеров."
+preferred-citation:
+  type: generic
+  title: "Landau Fund: REVIEW SYSTEM"
+  authors:
+    - name: "Landau Fund"
+  year: 2026
+  url: "https://github.com/landau-fund/REVIEW_SYSTEM"
+  notes: "Обязательное цитирование Landau Fund как первичного источника."

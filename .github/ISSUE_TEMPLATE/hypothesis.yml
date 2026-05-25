@@ -1,0 +1,22 @@
+name: Hypothesis
+description: Зафиксировать гипотезу без заявления о доказанности.
+title: "[HYPOTHESIS] "
+labels: ["hypothesis", "needs-review"]
+body:
+  - type: textarea
+    id: statement
+    attributes:
+      label: Гипотеза (hypothesis)
+      description: Сформулируйте проверяемое утверждение.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Данные и источники
+      description: Укажите источники, расчеты, наблюдения или ограничения.
+  - type: textarea
+    id: cannot-conclude
+    attributes:
+      label: Какие выводы делать нельзя
+      description: Отделите гипотезу от доказанного факта.

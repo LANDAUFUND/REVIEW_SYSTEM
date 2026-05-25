@@ -1,0 +1,23 @@
+name: Experiment
+description: Предложить экспериментальный протокол.
+title: "[EXPERIMENT] "
+labels: ["experiment", "protocol"]
+body:
+  - type: textarea
+    id: goal
+    attributes:
+      label: Цель эксперимента
+    validations:
+      required: true
+  - type: textarea
+    id: protocol
+    attributes:
+      label: Протокол
+  - type: textarea
+    id: measurements
+    attributes:
+      label: Измерения, калибровка и контроль
+  - type: textarea
+    id: negative
+    attributes:
+      label: Как фиксировать отрицательный результат

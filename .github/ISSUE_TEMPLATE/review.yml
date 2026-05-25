@@ -1,0 +1,25 @@
+name: Review
+description: Запросить рецензию, проверку или методологический отзыв.
+title: "[REVIEW] "
+labels: ["review"]
+body:
+  - type: textarea
+    id: object
+    attributes:
+      label: Объект рецензии
+    validations:
+      required: true
+  - type: dropdown
+    id: review-type
+    attributes:
+      label: Тип рецензии
+      options:
+        - peer review
+        - expert review
+        - open review
+        - AI review
+        - startup review
+  - type: textarea
+    id: criteria
+    attributes:
+      label: Критерии проверки
