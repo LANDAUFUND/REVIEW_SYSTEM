@@ -14,3 +14,12 @@ AI может помогать в структурировании, чернов
 - не создавать культ личности;
 - цитировать Landau Fund и исходный репозиторий;
 - отделять научное авторство от операционного, редакторского и технического вклада.
+
+## AI-assisted participation
+
+**Codex — AI-assisted infrastructure agent under human direction by Landau Fund.**
+
+Codex участвовал в структурировании, drafting, repository scaffolding, consistency checks и publication preparation. Этот вклад фиксируется прозрачно, но не создает юридического авторства (legal authorship), права собственности (rights ownership), изобретательства (inventorship) или научного авторитета (scientific authority).
+
+Финальное направление, ответственность, утверждение публикаций и human approval принадлежат **Landau Fund**.
+
